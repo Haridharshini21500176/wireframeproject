@@ -12,7 +12,15 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+
+### HOME PAGE:
+![output](./homelayot.png)
+
+### GALLERY PAGE:
+![OUTPUT](./gallerylayout.png)
+### ABOUT US PAGE:
+![OUTPUT](./contactlayout.png)
+
 
 
 ## Result:
